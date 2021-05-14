@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">My GitHub is like...</h3>
 
-<p align="center"> <a href="https://github.com/SH2282000/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SH2282000" alt="Shannah" /></a> </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SH2282000&show_icons=true&locale=en&layout=compact" alt="SH2282000" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SH2282000&show_icons=true&locale=en" alt="SH2282000" />
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SH2282000&" alt="SH2282000" />
+<p align="center"> <a href="https://github.com/SH2282000/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SH2282000" alt="Shannah" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SH2282000&show_icons=true&locale=en&layout=compact" alt="SH2282000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SH2282000&show_icons=true&locale=en" alt="SH2282000" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SH2282000&" alt="SH2282000" /></p>
