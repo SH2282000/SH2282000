@@ -1,5 +1,5 @@
 <p align="right"> 
-  <a href="https://twitter.com/SH2282000" target="blank"><img src="https://img.shields.io/twitter/follow/theRealShannaX?logo=twitter&style=for-the-badge" alt="theRealShannaX on twitter!"/></a>
+  <a href="https://twitter.com/TheRealShannax" target="blank"><img src="https://img.shields.io/twitter/follow/theRealShannaX?logo=twitter&style=for-the-badge" alt="theRealShannaX on twitter!"/></a>
   <a href="https://www.youtube.com/channel/UCtElHb-Icgh1EM5G7ZPdKVw" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCtElHb-Icgh1EM5G7ZPdKVw?logo=youtube&style=for-the-badge" alt="theRealShannaX on youtube!"/></a>
 </p>
 
