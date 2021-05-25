@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for an **Airtags Developper Documentation** @apple
 - 💬 Ask me about **Pointers, Socket, Multithreading, Overflow... anything :)** 
 - 📫 Reach me on my [mail](mailto:shannah.santucci@gmail.com)
-- 😄 Fun fact: Life is beautiful, programming even more :D
+- 😄 Fun fact: nahhh :D
 
 <!--<a href="https://dev.to/SH2282000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="SH2282000" height="30" width="40" /></a> --><!-- just in case I'll post something on it one day Xd -->
 
