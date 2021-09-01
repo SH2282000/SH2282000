@@ -4,7 +4,8 @@
 </p>
 
 ### Hi there, I'm Shannah 👋
-  
+#### Fullstack and Software developper
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [jump](https://github.com/SH2282000/jump)
